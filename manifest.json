@@ -1,0 +1,31 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Glowing Ores",
+    "description": "Makes all ores glow beautifully in caves!",
+    "uuid": "9e9babc9-a7f5-47af-abf4-f98a02f37ff8",
+    "version": [1, 4, 0],
+    "min_engine_version": [1, 21, 80]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c755a448-2c7d-423c-ae4f-4107f19d2768",
+      "version": [1, 4, 0]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "1",
+      "name": "Default Glowing Ores",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "2",
+      "name": "Outlined Glowing Ores",
+      "memory_tier": 2
+    }
+  ]
+}
+
+

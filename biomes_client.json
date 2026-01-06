@@ -1,0 +1,8 @@
+"biomes": {
+  "default": {
+    "fog_identifier": "gw:cavesfog",
+    "atmosphere_identifier": "gw:smooth_atmosphere",
+    "color_grading_identifier": "gw:smooth_color_grading",
+    "lighting_identifier": "gw:smooth_lighting"
+  }
+}
