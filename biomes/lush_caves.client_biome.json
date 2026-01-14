@@ -5,14 +5,23 @@
       "identifier": "lush_caves"
     },
     "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#1B2A24"
+      },
       "minecraft:fog_appearance": {
         "fog_identifier": "gw:lush_caves_fog"
       },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "gw:smooth_color_grading"   
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "gw:smooth_atmosphere"         
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "gw:smooth_lighting"
+      },
       "minecraft:water_appearance": {
         "surface_color": "#2F5B4A"
-      },
-      "minecraft:sky_color": {
-        "sky_color": "#1B2A24"
       }
     }
   }

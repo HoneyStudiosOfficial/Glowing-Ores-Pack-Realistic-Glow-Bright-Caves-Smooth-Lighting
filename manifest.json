@@ -3,15 +3,15 @@
   "header": {
     "name": "Glowing Ores",
     "description": "Makes all ores glow beautifully in caves!",
-    "uuid": "9e9babc9-a7f5-47af-abf4-f98a02f37ff8",
-    "version": [1, 4, 0],
+    "uuid": "69c3c222-5ee9-4def-94c7-f5a8ddcab474",
+    "version": [1, 5, 0],
     "min_engine_version": [1, 21, 80]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "c755a448-2c7d-423c-ae4f-4107f19d2768",
-      "version": [1, 4, 0]
+      "uuid": "0d99b469-21d4-4b9c-8b90-4f137becf929",
+      "version": [1, 5, 0]
     }
   ],
   "subpacks": [
