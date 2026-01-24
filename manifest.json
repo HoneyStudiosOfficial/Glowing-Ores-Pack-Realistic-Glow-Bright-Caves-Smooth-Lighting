@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Glowing Ores",
+    "name": "Glowing Ores v1.6",
     "description": "Makes all ores glow beautifully in caves!",
-    "uuid": "69c3c222-5ee9-4def-94c7-f5a8ddcab474",
-    "version": [1, 5, 0],
+    "uuid": "59f30f0a-f846-4620-a4f2-24bfe847c204",
+    "version": [1, 6, 0],
     "min_engine_version": [1, 21, 80]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "0d99b469-21d4-4b9c-8b90-4f137becf929",
-      "version": [1, 5, 0]
+      "uuid": "4af3adc9-8b20-47a2-bf8a-cf243d69da72",
+      "version": [1, 6, 0]
     }
   ],
   "subpacks": [
